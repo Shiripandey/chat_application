@@ -26,24 +26,15 @@ $ node -v
 $ mongod --version
 ```
 
-2. Open your terminal and run the following -
+2. Now, the server is running, open the link http://localhost:5000/chat.html to access the chat interface
 
-```cmd
-$ git clone https://github.com/neelabhsinha/Private-Chat-Application-using-MongoDB-and-Socket.io/
-$ cd Private-Chat-Application-using-MongoDB-and-Socket.io
-$ npm install
-$ node server.js
-```
+3. Type your name and the 2nd person name and press done to establish a connection. You will see the entire chat history retrieved between the two people.
 
-3. Now, the server is running, open the link http://localhost:5000/chat.html to access the chat interface
+4. Open the same URL in another browser/tab and establish the other half of the connection
 
-4. Type your name and the 2nd person name and press done to establish a connection. You will see the entire chat history retrieved between the two people.
+5. Send messages from any end to see the functioning
 
-5. Open the same URL in another browser/tab and establish the other half of the connection
-
-6. Send messages from any end to see the functioning
-
-7. Close when you have to exit the chat 
+6. Close when you have to exit the chat 
 
 Feel free to try different cases, like when one user is offline, when both users are online but one of them is chatting with other person, etc.
 
