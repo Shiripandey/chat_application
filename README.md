@@ -2,7 +2,8 @@
 This repository contains a fully functional private chat application using MongoDB, Socket.io and Express that supports real-time chatting and also allows to retrieve chat when logged in later.
 ![Screenshot (2329)](https://github.com/user-attachments/assets/772d4221-47ff-42a0-b9d2-7201eb72fdd5)
 
-![Screenshot (2331)](https://github.com/user-attachments/assets/63a07088-55d5-4414-88e1-942dbfd89fa7)
+![Screenshot (2332)](https://github.com/user-attachments/assets/b1bc85d4-45c4-44db-a72e-920792bfd7c7)
+
 ## Tech-stack -
 - HTML, CSS (for front-end interface)
 - JavaScript (both front-end behaviour and in the back-end)
