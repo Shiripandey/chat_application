@@ -51,7 +51,4 @@ Feel free to try different cases, like when one user is offline, when both users
 - When a user logs in, his'her record is maintained in online users collection, and the entire chat history is retrived from the database and displayed using socket.io
 - When he sends messages, it's checked if the recipient is online or not. If yes, message is sent to him. If not, nothing happens. In both the cases, message is stored in database for later access
 - When a user disconnects, he'she is  removed from online users database
-![Screenshot (2329)](https://github.com/user-attachments/assets/772d4221-47ff-42a0-b9d2-7201eb72fdd5)
-
-![Screenshot (2331)](https://github.com/user-attachments/assets/63a07088-55d5-4414-88e1-942dbfd89fa7)
 
